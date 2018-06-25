@@ -2,7 +2,7 @@
 https://www.youtube.com/watch?v=XAfDrMeqoHY&list=PL7KBbsb4oaOnEdCxwKkRDXCUNZ-gPYf89
 https://stepik.org/course/73/
 # Системы контроля версий:
-http://rogerdudler.github.io/git-guide/index.ru.html
+http://rogerdudler.github.io/git-guide/index.ru.html \n
 https://vk.com/doc10903696_400990160?hash=5e0666c63e74637f4c&dl=96271fcf60dcad6b69
 # Python 3:
 Задания:
